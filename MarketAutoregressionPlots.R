@@ -1,4 +1,4 @@
-Enter file contents herelibrary(quantmod)
+library(quantmod)
 # A program to compute an autoregressive model (n=1) of the logarithm of closing stock
 # prices for 30 stocks.  Generates plots of the fitted values vs actuals with correlation
 # coefficient (R^2) values and histograms of the residuals.  Plots are sent to .png files.
